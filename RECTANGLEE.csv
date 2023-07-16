@@ -1,0 +1,19 @@
+sr_no,Identification_no,Type_ of_mould ,area _of _mould,ingridients_in_paving_sand_In_KG,ingridients_in_paving_plastic_%,Load,Weight ,Compressive_Strength
+1,R1,rectangular,29900,0.695,50,461,1.39,15.41
+2,R2,rectangular,29900,1.23,60,190,3.87,6.534
+3,R3,rectangular,29900,0.6,51,404,1.22,13.528
+4,R4,rectangular,29900,2.04,39,517,3.35,17.29
+5,R5,rectangular,29900,1.76,49,170,3.46,5.35
+6,R6,rectangular,29900,0.532,56,220,1.21,7.358
+7,R7,rectangular,29900,0.89,45,250,1.75,8.36
+8,R8,rectangular,29900,1.53,62,372,2.93,12.44
+9,R9,rectangular,29900,0.72,54,491,1.58,16.42
+10,R10,rectangular,29900,1.89,47,193,3.67,6.45
+11,R11,rectangular,29900,1.16,52,409,2.1,13.68
+12,R12,rectangular,29900,0.91,57,296,1.89,9.9
+13,R13,rectangular,29900,2.23,36,571,3.93,19.1
+14,R14,rectangular,29900,1.03,49,210,2.4,7.02
+15,R15,rectangular,29900,0.64,50,467,1.42,15.62
+16,R16,rectangular,29900,1.77,61,387,3.2,12.94
+17,R17,rectangular,29900,0.78,53,298,1.66,9.97
+18,R18,rectangular,29900,2.14,4.2,599,3.76,20.45
